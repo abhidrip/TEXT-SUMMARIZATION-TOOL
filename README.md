@@ -1,5 +1,16 @@
 # TEXT-SUMMARIZATION-TOOL
 
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: Abhideep Sahni
+
+$INTERN ID *: CT04DF1288
+
+*DOMAIN *: Artificial Intelligence
+
+*DURATION *: 4 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
 
 A simple yet robust **Jupyter Notebook** that demonstrates how to summarize long articles using state-of-the-art NLP techniques with a large pretrained model (**facebook/bart-large-cnn**).  
 
